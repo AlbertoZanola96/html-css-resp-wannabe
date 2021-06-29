@@ -153,6 +153,14 @@ img {
   #steps .container.grey {
     background-color: white;
   }
+
+  #steps img {
+    width: 100px;
+    height: 100px;
+  }
+
+/* fine seconda parte */
+
 }
 
 
