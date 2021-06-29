@@ -110,14 +110,23 @@ img {
   #lezioni .right h3 {
     position: absolute;
     top: 108px;
-    left: 180px
+    left: 180px;
+    font-size: 16px;
   }
 
   #lezioni .left h3 {
     position: absolute;
     top: 85px;
-    left: 172px
+    left: 172px;
+    font-size: 16px;
   }
+
+  #lezioni .left,
+  #lezioni .right {
+    font-size: 13px;
+  }
+
+
 
 }
 
